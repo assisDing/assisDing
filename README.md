@@ -12,16 +12,15 @@ Profissional de TI focado em **Redes de Computadores**, infraestrutura e automa�
 ### 🛠️ Competências e Ferramentas
 
 #### 🌐 Redes e Infraestrutura
-![Cisco](https://shields.io)
-![MikroTik](https://shields.io)
-![Linux](https://shields.io)
+![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![AWS](https://shields.io)
 ![Docker](https://shields.io)
 
 #### ⚙️ Automação e Scripting
-![Python]([https://shields.io](http://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))
-![Shell Script](https://shields.io)
-![Ansible](https://shields.io)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 

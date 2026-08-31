@@ -16,6 +16,7 @@ Profissional de TI focado em **Redes de Computadores**, infraestrutura e automa�
 ![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows Server 2022](https://img.shields.io/badge/Windows-Server_2022-green)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![PowerShell](https://img.shields.io/badge/PowerShell-7.X-blue?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
 
 #### Automação e Scripting
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)

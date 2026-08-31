@@ -1,26 +1,26 @@
-# Fique à vontade
+# Seja bem vindo ao meu perfil
 
-### Sobre Mim
+### 👨‍💻 Sobre Mim
 Profissional de TI focado em **Redes de Computadores**, suporte e infraestrutura. 
 
 - 🖥️ Atualmente trabalhando como **[Seu Cargo Atual]** na **[Sua Empresa/Projeto]**
-- 🎓 Formação **[Tecnologia em Redes de Computadores - SENAC]**
+- 🎓 Formação **Tecnologia em Redes de Computadores - SENAC**
 - 🛡️ Áreas de interesse: Gerenciamento de Servidores, DevOps, Automação (IaC) e Monitoramento de Ativos
-- ✉️ Como me encontrar: **[contato@leandroding.com]**
+- ✉️ Como me encontrar: **contato@leandroding.com**
 
 ---
 
 ### 🛠️ Competências e Ferramentas
 
 #### 🌐 Redes e Infraestrutura
-![Linux](https://shields.io)
 ![Windows Server](https://shields.io)
+![Linux](https://shields.io)
 ![Docker](https://shields.io)
 
 #### ⚙️ Automação e Scripting
-![Python](https://shields.io)
-![Shell Script](https://shields.io)
 ![PowerShell](https://shields.io)
+![Shell Script](https://shields.io)
+![Python](https://shields.io)
 
 ---
 

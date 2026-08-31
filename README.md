@@ -3,9 +3,10 @@
 Profissional de TI focado em **Redes de Computadores**, infraestrutura e automação de sistemas. Gosto de transformar linhas de código em redes estáveis, seguras e escaláveis.
 
 - 🖥️ Atualmente trabalhando como **[Seu Cargo Atual]** na **[Sua Empresa/Projeto]**
-- 🎓 Formado/Estudando **[Seu Curso - ex: Redes de Computadores / Ciência da Computação]**
-- 🛡️ Áreas de interesse: Segurança de Redes, DevOps, Cloud Computing, SysAdmin e Automação (IaC)
-- ✉️ Como me encontrar: **[seu.email@email.com]**
+- 🎓 Formação
+  **[Tecnologia em Redes de Computadores (SENAC)]**
+- 🛡️ Áreas de interesse: Administração de Sistemas, Segurança Cibernética, Cloud Computing
+- ✉️ Como me encontrar: **[contato[arroba]leandroding[ponto]com]**
 
 ---
 
@@ -14,8 +15,7 @@ Profissional de TI focado em **Redes de Computadores**, infraestrutura e automa�
 #### 🌐 Redes e Infraestrutura
 ![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
-![AWS](https://shields.io)
-![Docker](https://shields.io)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### ⚙️ Automação e Scripting
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,8 +45,5 @@ Profissional de TI focado em **Redes de Computadores**, infraestrutura e automa�
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://SOU_SITE_OU_PORTFOLIO" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
   </a>
 </p>

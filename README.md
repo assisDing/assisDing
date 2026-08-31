@@ -17,7 +17,7 @@ Profissional de TI focado em **Redes de Computadores**, infraestrutura e automa�
 ![Windows Server 2022](https://img.shields.io/badge/Windows-Server_2022-green)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### ⚙️ Automação e Scripting
+#### Automação e Scripting
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

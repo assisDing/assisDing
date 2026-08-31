@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu perfil 👋
+# Olá, eu sou o Leandro 👋
 
 ### 👨‍💻 Sobre Mim
 Profissional de TI focado em **Redes de Computadores**, suporte e infraestrutura. 
@@ -13,25 +13,21 @@ Profissional de TI focado em **Redes de Computadores**, suporte e infraestrutura
 ### 🛠️ Competências e Ferramentas
 
 #### 🌐 Redes e Infraestrutura
-<img src="https://shields.io" alt="Windows Server" />
-<img src="https://shields.io" alt="Linux" />
-<img src="https://shields.io" alt="Docker" />
+<img src="https://shields.io" alt="Windows Server" /> <img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="Docker" />
 
 #### ⚙️ Automação e Scripting
-<img src="https://shields.io" alt="PowerShell" />
-<img src="https://shields.io" alt="Shell Script" />
-<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="PowerShell" /> <img src="https://shields.io" alt="Shell Script" /> <img src="https://shields.io" alt="Python" />
 
 ---
 
 ### 📊 Estatísticas Automáticas
 
 <p align="center">
-  <!-- Gráfico de Linguagens Mais Usadas (Servidor Alternativo) -->
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px" />
+  <!-- Gráfico de Linguagens Mais Usadas (Servidor de Alta Disponibilidade) -->
+  <img src="https://shion.dev" alt="Linguagens mais usadas" height="180px" />
   
-  <!-- Status e Pontuação Geral do GitHub -->
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px" />
+  <!-- Status Geral do GitHub -->
+  <img src="https://shion.dev" alt="Estatísticas do GitHub" height="180px" />
 </p>
 
 ---

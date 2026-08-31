@@ -1,16 +1,49 @@
-## Hi there 👋
+# Fique à vontade
 
-<!--
-**assisDing/assisDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+Profissional de TI focado em **Redes de Computadores**, suporte e infraestrutura. 
 
-Here are some ideas to get you started:
+- 🖥️ Atualmente trabalhando como **[Seu Cargo Atual]** na **[Sua Empresa/Projeto]**
+- 🎓 Formação **[Tecnologia em Redes de Computadores - SENAC]**
+- 🛡️ Áreas de interesse: Gerenciamento de Servidores, DevOps, Automação (IaC) e Monitoramento de Ativos
+- ✉️ Como me encontrar: **[contato@leandroding.com]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Competências e Ferramentas
+
+#### 🌐 Redes e Infraestrutura
+![Linux](https://shields.io)
+![Windows Server](https://shields.io)
+![Docker](https://shields.io)
+
+#### ⚙️ Automação e Scripting
+![Python](https://shields.io)
+![Shell Script](https://shields.io)
+![PowerShell](https://shields.io)
+
+---
+
+### 📊 Estatísticas Automáticas
+
+<p align="center">
+  <!-- Gráfico de Linguagens Mais Usadas -->
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px" />
+  
+  <!-- Status e Pontuação Geral do GitHub -->
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px" />
+</p>
+
+---
+
+### 📈 Meu Histórico de Contribuições
+![Gráfico de Linha de Contribuições](https://herokuapp.com)
+
+---
+
+### 🤝 Conecte-se Comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/leandrocamposding/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>

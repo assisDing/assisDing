@@ -3,8 +3,7 @@
 Profissional de TI focado em **Redes de Computadores**, infraestrutura e automação de sistemas. Gosto de transformar linhas de código em redes estáveis, seguras e escaláveis.
 
 - 🖥️ Atualmente trabalhando como **Suporte Técnico** na **Micronia**
-- 🎓 Formação
-  **Tecnologia em Redes de Computadores (SENAC)**
+- 🎓 Formação: **Tecnologia em Redes de Computadores (SENAC)**
 - 🛡️ Áreas de interesse: Administração de Sistemas, Segurança Cibernética, Cloud Computing
 - ✉️ Como me encontrar: **contato[arroba]leandroding[ponto]com**
 

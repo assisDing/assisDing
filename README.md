@@ -14,6 +14,8 @@ Profissional de TI focado em **Redes de Computadores**, infraestrutura e automa�
 #### 🌐 Redes e Infraestrutura
 ![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
+<img src="[https://shields.io](https://img.shields.io/badge/Windows%20Server-2019-4e9eee?style=for-the-badge&logo=windows&logoColor=ffffff)" alt="Windows Server">
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### ⚙️ Automação e Scripting

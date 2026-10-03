@@ -22,7 +22,6 @@ Profissional de TI focado em **Redes de Computadores**, infraestrutura e automa√
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 [![PowerShell](https://img.shields.io/badge/PowerShell-7.X-blue?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 
